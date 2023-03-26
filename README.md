@@ -70,3 +70,21 @@ b) public class Main {
         }
     }
 }
+
+public class Main {
+
+    public static void main(String[] args) {
+        f(100, 2);
+    }
+
+    public static void f(int num, int div) {
+        if (num > 1) {
+            if ((num % div) == 0) {
+                System.out.println(div);
+                f(num / div, div);
+            } else {
+                f(num, div + 1);
+            }
+        }
+    }
+}

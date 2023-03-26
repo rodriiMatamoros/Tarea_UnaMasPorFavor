@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7554428e-44fd-49ce-b15a-3f1e28daf6ea" name="Changes" comment="commit esPalindromoRecursivo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio4/MainRecursivo.java" afterDir="false" />
+    <list default="true" id="7554428e-44fd-49ce-b15a-3f1e28daf6ea" name="Changes" comment="commit MainRecursivo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio5/EuclidesRecursiva.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679833420744</updated>
-      <workItem from="1679833421627" duration="5085000" />
+      <workItem from="1679833421627" duration="5466000" />
     </task>
     <task id="LOCAL-00001" summary="commit Conversion">
       <created>1679837365452</created>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679839159633</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit MainRecursivo">
+      <created>1679839278322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679839278322</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
     <MESSAGE value="commit Clases" />
     <MESSAGE value="commit MainIterativo" />
     <MESSAGE value="commit esPalindromoRecursivo" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit esPalindromoRecursivo" />
+    <MESSAGE value="commit MainRecursivo" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit MainRecursivo" />
   </component>
 </project>

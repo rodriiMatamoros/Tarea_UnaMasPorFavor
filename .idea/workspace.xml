@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7554428e-44fd-49ce-b15a-3f1e28daf6ea" name="Changes" comment="commit Clases">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio4/MainIterativo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio4/esPalindromoIterativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio4/esPalindromoIterativo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio4/esPalindromoRecursivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio4/esPalindromoRecursivo.java" afterDir="false" />
+    <list default="true" id="7554428e-44fd-49ce-b15a-3f1e28daf6ea" name="Changes" comment="commit esPalindromoRecursivo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio4/MainRecursivo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679833420744</updated>
-      <workItem from="1679833421627" duration="4736000" />
+      <workItem from="1679833421627" duration="5085000" />
     </task>
     <task id="LOCAL-00001" summary="commit Conversion">
       <created>1679837365452</created>
@@ -83,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679837829224</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit MainIterativo">
+      <created>1679839100855</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679839100855</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit esPalindromoRecursivo">
+      <created>1679839159633</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679839159633</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +104,8 @@
     <MESSAGE value="commit Conversion" />
     <MESSAGE value="commit Main" />
     <MESSAGE value="commit Clases" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Clases" />
+    <MESSAGE value="commit MainIterativo" />
+    <MESSAGE value="commit esPalindromoRecursivo" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit esPalindromoRecursivo" />
   </component>
 </project>

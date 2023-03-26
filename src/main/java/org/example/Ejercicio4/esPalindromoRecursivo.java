@@ -1,9 +1,6 @@
 package org.example.Ejercicio4;
-
-//Implemente de forma recursiva una función en java que nos diga si una cadena de caracteres es simétrica (un palíndromo)
-// y preguntar por consola que frase quiere poner el usuario.
-
 import java.util.Scanner;
+
 
 public class esPalindromoRecursivo {
     public static boolean esPalindromo(String cadena, int i, int j) {

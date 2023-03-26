@@ -55,4 +55,18 @@ b) Implemente un algoritmo iterativo y uno implementado mediante expresiones lam
 
 a) La función f(x,2) imprimirá todos los factores primos de x en orden ascendente. Es decir, imprimirá cada factor primo y luego llamará recursivamente a f() con el resultado de la división de x entre dicho factor primo. Un nombre más adecuado para la función f podría ser "factorizar".
 
-b) 
+b) public class Main {
+
+    public static void main(String[] args) {
+        int num = 100;
+        int div = 2;
+        while (num > 1) {
+            if ((num % div) == 0) {
+                System.out.println(div);
+                num = num / div;
+            } else {
+                div++;
+            }
+        }
+    }
+}

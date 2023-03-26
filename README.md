@@ -11,6 +11,7 @@ a)¿Qué calcula la llamada a la función recursiva bisect(0,N)? Si cambiamos el
 b) Implemente un algoritmo iterativo equivalente.
 
 ### Respuesta:
+
 a) La llamada a la función recursiva bisect(0,N) calcula la raíz cuadrada de 2 (N=2) mediante el método de la bisección. 
 Al cambiar el valor de N, estaríamos calculando la raíz cuadrada de ese nuevo valor. Si cambiamos la función f(x), estaríamos
 calculando la raíz de la ecuación f(x)=0 en el intervalo [0,N], utilizando el método de la bisección.
@@ -51,3 +52,7 @@ a) Dado un número cualquiera x, ¿qué nos muestra por pantalla la llamada a la
 b) Implemente un algoritmo iterativo y uno implementado mediante expresiones lambda equivalentes.
 
 ### Respuesta:
+
+a) La función f(x,2) imprimirá todos los factores primos de x en orden ascendente. Es decir, imprimirá cada factor primo y luego llamará recursivamente a f() con el resultado de la división de x entre dicho factor primo. Un nombre más adecuado para la función f podría ser "factorizar".
+
+b) 

@@ -4,7 +4,7 @@ import java.util.function.BiFunction;
 
 public class EuclidesLambda {
 
-    public static void main(String[] args) {
+    public static void main() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Introducir un valor: ");
         int numero1 = scanner.nextInt();
